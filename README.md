@@ -10,5 +10,6 @@
         - ConditionEvaluationReport 를 통해서 원하는 자동 구성 목록을 출력할 수 있다.
     5. Core 자동 구성 살펴보기
     6. Web 자도 구성 살펴보기
+    7. Jdbc 자동 구성 살펴보기
 
 [{이전으로}](https://github.com/heechul90/study-toby-springboot)
