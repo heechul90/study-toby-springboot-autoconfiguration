@@ -37,4 +37,4 @@
           - 스프링 부트 3.x
           - 스프링 프레임워크와 자바 표준, 오픈소스 기술
 
-[{이전으로}](https://github.com/heechul90/study-toby-springboot)
+[[이전으로]](https://github.com/heechul90/study-toby-springboot)
